@@ -13,13 +13,10 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ProgressBar;
-import android.widget.RadioButton;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.google.android.material.textfield.TextInputLayout;
+import com.example.aplicacionsemestral.noticia.Lista;
 
 public class menuPrincipal extends AppCompatActivity {
 
